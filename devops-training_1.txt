@@ -1,4 +1,3 @@
-Anbarasu
-Banglore
-Devops training test of git hub
-test/practice
+Anbarasu, Banglore
+Devops training test of git hub - test/practice
+JavaHome, Marathalli
